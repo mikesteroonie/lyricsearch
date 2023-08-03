@@ -35,7 +35,7 @@ df.drop_duplicates(subset=['lyrics_title', 'lyrics'], inplace=True)
 
 #print(df.head(10))
 
-api_key ='OvRr5AjLI98AuCFtlK3KjPE8bT25NVL9BxxK6w3z'
+api_key ='INSERTAPIKEY'
 co = cohere.Client(api_key)
 
 chunk_size = 50  
