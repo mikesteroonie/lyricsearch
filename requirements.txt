@@ -1,0 +1,13 @@
+cohere
+numpy
+# re
+pandas
+# json
+umap
+altair
+sklearn
+annoy
+# warnings
+tqdm
+datasets
+scikit-learn
